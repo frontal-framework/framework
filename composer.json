@@ -1,6 +1,6 @@
 {
   "name": "frontal-framework/http-foundation",
-  "description": "The frontal framework Kernel",
+  "description": "The frontal HttpFoundation Component",
   "type": "library",
   "require": {
     "php": ">=5.5.9",
