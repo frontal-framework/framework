@@ -1,6 +1,6 @@
 <?php
 
-namespace Frontal\Http;
+namespace Frontal\HttpFoundation;
 
 use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\HttpFoundation\Response;

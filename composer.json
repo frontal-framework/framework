@@ -1,5 +1,5 @@
 {
-  "name": "frontal-framework/framework",
+  "name": "frontal-framework/http-foundation",
   "description": "The frontal framework Kernel",
   "type": "library",
   "require": {
@@ -11,7 +11,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Frontal\\": ""
+      "Frontal\\HttpFoundation\\": ""
     }
   },
   "license": "MIT",
