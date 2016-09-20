@@ -1,0 +1,25 @@
+{
+  "name": "frontal-framework/frontal",
+  "description": "The frontal framework Kernel",
+  "type": "library",
+  "require": {
+    "php": ">=5.5.9",
+    "symfony/class-loader": "^3.1",
+    "symfony/http-foundation": "^3.1",
+    "symfony/routing": "^3.1",
+    "symfony/http-kernel": "^3.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "App": "src/"
+    }
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Kevin Dumont",
+      "email": "contact@kevindumont.fr"
+    }
+  ],
+  "minimum-stability": "dev"
+}
