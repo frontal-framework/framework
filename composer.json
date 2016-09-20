@@ -1,5 +1,5 @@
 {
-  "name": "frontal-framework/frontal",
+  "name": "frontal-framework/framework",
   "description": "The frontal framework Kernel",
   "type": "library",
   "require": {
